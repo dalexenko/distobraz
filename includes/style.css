@@ -1,0 +1,31 @@
+﻿BODY {
+	background : #F5F5F5;
+	font-family : Verdana;
+	font-size : x-small;
+}
+
+H1 {
+	font-style : italic;
+	font-size : 18px;
+}
+
+A {
+	color : Navy;
+	font-weight : bold;
+}
+
+A:HOVER {
+	color : White;
+	background : Navy;
+	font-weight : bold;
+}
+
+TABLE {
+	background : transparent;
+}
+
+TD {
+	border : thin groove;
+	font-family : Verdana;
+	font-size : 12px;
+}
